@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Food-Safety-Prototype
+
+A React-based application for monitoring food safety compliance in restaurant environments.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
