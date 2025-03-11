@@ -1,5 +1,6 @@
 import './App.css';
 import FoodSafety from './components/FoodSafety';
+import FoodSafetyPrototype from './components/FoodSafetyPrototype';
 
 function App() {
   return (
@@ -8,7 +9,8 @@ function App() {
         <h1 className="text-xl font-bold">Chef Admin Dashboard</h1>
       </header>
       <main className="py-8">
-        <FoodSafety />
+        {/* <FoodSafety /> */}
+        <FoodSafetyPrototype />
       </main>
     </div>
   );
